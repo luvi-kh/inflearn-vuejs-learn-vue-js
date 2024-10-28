@@ -34,3 +34,10 @@ https://joshua1988.github.io/vue-camp/
 ```
 https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/
 ```
+
+### Vuejs 공식 문서
+```
+https://vuejs.org/guide/essentials/forms.html#ad
+
+https://vuejs.org/
+```
