@@ -42,3 +42,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### scf tab  
+```
+scf tab 단축키로 template, script, style 컴포넌트 자동생성
+```
