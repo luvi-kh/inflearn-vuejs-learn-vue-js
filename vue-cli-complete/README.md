@@ -1,4 +1,19 @@
 # vue-cli
+```
+https://cli.vuejs.org/guide/installation.html
+
+npm install -g @vue/cli
+
+sudo npm install -g @vue/cli
+```
+
+## Project setup - 신규생성
+```
+vue create vue-cli
+
+vue CLI v4.5.4
+
+```
 
 ## Project setup
 ```
